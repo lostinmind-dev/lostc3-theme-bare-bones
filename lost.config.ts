@@ -1,4 +1,4 @@
-import type { LostConfig } from "jsr:@lost-c3/lib@1.2.5";
+import type { LostConfig } from "jsr:@lost-c3/lib@2.0.0";
 
 const Config: LostConfig<'theme'> = {
     Type: 'theme',
